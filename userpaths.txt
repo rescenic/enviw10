@@ -1,5 +1,6 @@
 C:\Users\Rescenic\AppData\Local\Microsoft\WindowsApps;
 C:\Users\Rescenic\.cargo\bin;
+C:\Users\Rescenic\go\bin;
 C:\Users\Rescenic\scoop\shims;
 C:\Users\Rescenic\scoop\apps\composer\current\home\vendor\bin;
 C:\Users\Rescenic\AppData\Roaming\npm;
