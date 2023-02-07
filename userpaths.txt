@@ -3,6 +3,7 @@ C:\Users\Rescenic\.cargo\bin;
 C:\Users\Rescenic\go\bin;
 C:\Users\Rescenic\scoop\shims;
 C:\Users\Rescenic\scoop\apps\composer\current\home\vendor\bin;
+C:\Users\Rescenic\scoop\apps\imagemagick\current;
 C:\Users\Rescenic\AppData\Roaming\npm;
 C:\Users\Rescenic\AppData\Local\.meteor;
 C:\Users\Rescenic\AppData\Local\Programs\oh-my-posh\bin;
