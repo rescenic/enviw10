@@ -6,6 +6,7 @@ C:\Windows\System32\OpenSSH\;
 E:\flutter\bin;
 E:\kotlin\bin;
 %JAVA_HOME%\bin;
+C:\Program Files\Git LFS;
 C:\Program Files\Git\cmd;
 C:\Program Files\GitHub CLI\;
 C:\Program Files\OpenSSL\bin;
