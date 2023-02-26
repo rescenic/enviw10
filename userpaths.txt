@@ -1,13 +1,16 @@
-C:\Users\Rescenic\scoop\apps\imagemagick\current;
+D:\Ruby64\bin;
+C:\Users\Rescenic\go\bin;
 C:\Users\Rescenic\scoop\apps\composer\current\home\vendor\bin;
+C:\Users\Rescenic\scoop\apps\imagemagick\current;
 C:\Users\Rescenic\scoop\apps\python\current\Scripts;
 C:\Users\Rescenic\scoop\apps\python\current;
 C:\Users\Rescenic\scoop\apps\dart\current\bin;
-C:\Users\Rescenic\go\bin;
 C:\Users\Rescenic\.cargo\bin;
 C:\Users\Rescenic\scoop\shims;
-C:\Users\Rescenic\AppData\Local\Microsoft\WindowsApps;
 C:\Users\Rescenic\AppData\Local\.meteor;
+C:\Users\Rescenic\AppData\Local\JetBrains\Toolbox\scripts;
+C:\Users\Rescenic\AppData\Local\Microsoft\WindowsApps;
+C:\Users\Rescenic\AppData\Local\Programs\EmEditor;
 C:\Users\Rescenic\AppData\Local\Programs\oh-my-posh\bin;
 C:\Users\Rescenic\AppData\Roaming\npm;
 D:\laragon\bin;
@@ -23,5 +26,4 @@ D:\laragon\bin\postgresql\pgsql-9.4.26-x64\bin;
 D:\laragon\bin\putty;
 D:\laragon\bin\redis\redis-x64-5.0.14;
 D:\laragon\bin\telnet;
-D:\laragon\usr\bin;
-E:\msys64\usr\bin
+D:\laragon\usr\bin
