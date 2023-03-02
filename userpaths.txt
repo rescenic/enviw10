@@ -1,11 +1,12 @@
 D:\Ruby64\bin;
+C:\Users\Rescenic\.cargo\bin;
 C:\Users\Rescenic\go\bin;
 C:\Users\Rescenic\scoop\apps\composer\current\home\vendor\bin;
+C:\Users\Rescenic\scoop\apps\dart\current\bin;
 C:\Users\Rescenic\scoop\apps\imagemagick\current;
 C:\Users\Rescenic\scoop\apps\python\current\Scripts;
 C:\Users\Rescenic\scoop\apps\python\current;
-C:\Users\Rescenic\scoop\apps\dart\current\bin;
-C:\Users\Rescenic\.cargo\bin;
+C:\Users\Rescenic\scoop\apps\tinytex\current\bin\win32;
 C:\Users\Rescenic\scoop\shims;
 C:\Users\Rescenic\AppData\Local\.meteor;
 C:\Users\Rescenic\AppData\Local\JetBrains\Toolbox\scripts;
